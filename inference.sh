@@ -1,0 +1,1 @@
+python ./inference.py --model_type cnn --data_dir /home/yifei/code/cat_dog/data/mini --batch_size 32 --load_path /home/yifei/code/cat_dog/checkpoints/cnn/dataset_mini_lr_0.001_num_layers_3/model.pth
